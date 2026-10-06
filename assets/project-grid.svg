@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390">
+<defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#050b18"/><stop offset="1" stop-color="#101735"/></linearGradient></defs>
+<rect width="1200" height="390" rx="22" fill="url(#bg)" stroke="#157dff" stroke-width="2"/>
+<text x="40" y="48" fill="#63d7ff" font-family="Arial" font-size="22" font-weight="700">SELECTED SYSTEMS</text>
+<g font-family="Arial">
+<rect x="35" y="75" width="355" height="125" rx="14" fill="#0a1428" stroke="#1c8cff"/>
+<text x="55" y="105" fill="#fff" font-size="18" font-weight="700">CardioVision-AI</text>
+<text x="55" y="132" fill="#8fdcff" font-size="13">Medical image intelligence</text>
+<text x="55" y="157" fill="#8296b8" font-size="12">PyTorch • OpenCV • XGBoost</text>
+<text x="55" y="182" fill="#45f0a4" font-size="11">COMPUTER VISION / ML</text>
+
+<rect x="422" y="75" width="355" height="125" rx="14" fill="#0a1428" stroke="#765cff"/>
+<text x="442" y="105" fill="#fff" font-size="18" font-weight="700">BhuSetu</text>
+<text x="442" y="132" fill="#c9c0ff" font-size="13">Landslide early-warning platform</text>
+<text x="442" y="157" fill="#8296b8" font-size="12">AI • GIS • Satellite • Alerts</text>
+<text x="442" y="182" fill="#45f0a4" font-size="11">CRISIS RESPONSE / AI</text>
+
+<rect x="809" y="75" width="355" height="125" rx="14" fill="#0a1428" stroke="#12cbe0"/>
+<text x="829" y="105" fill="#fff" font-size="18" font-weight="700">Job Automation Platform</text>
+<text x="829" y="132" fill="#8fefff" font-size="13">Automated job-application workflow</text>
+<text x="829" y="157" fill="#8296b8" font-size="12">Python • FastAPI • Browser automation</text>
+<text x="829" y="182" fill="#45f0a4" font-size="11">AUTOMATION / AI</text>
+
+<rect x="35" y="225" width="355" height="125" rx="14" fill="#0a1428" stroke="#e04cff"/>
+<text x="55" y="255" fill="#fff" font-size="18" font-weight="700">Parkinson's Detection</text>
+<text x="55" y="282" fill="#f0b9ff" font-size="13">Handwriting-based research</text>
+<text x="55" y="307" fill="#8296b8" font-size="12">Deep Learning • OpenCV • XGBoost</text>
+<text x="55" y="332" fill="#45f0a4" font-size="11">RESEARCH / CV</text>
+
+<rect x="422" y="225" width="355" height="125" rx="14" fill="#0a1428" stroke="#1c8cff"/>
+<text x="442" y="255" fill="#fff" font-size="18" font-weight="700">OceanEmbed</text>
+<text x="442" y="282" fill="#8fdcff" font-size="13">Satellite embedding research</text>
+<text x="442" y="307" fill="#8296b8" font-size="12">Deep Learning • Ocean Science</text>
+<text x="442" y="332" fill="#45f0a4" font-size="11">RESEARCH / EARTH DATA</text>
+
+<rect x="809" y="225" width="355" height="125" rx="14" fill="#0a1428" stroke="#765cff"/>
+<text x="829" y="255" fill="#fff" font-size="18" font-weight="700">More in the Lab</text>
+<text x="829" y="282" fill="#c9c0ff" font-size="13">Hackathons • experiments • prototypes</text>
+<text x="829" y="307" fill="#8296b8" font-size="12">Always shipping the next idea</text>
+<text x="829" y="332" fill="#45f0a4" font-size="11">STATUS / BUILDING</text>
+</g></svg>

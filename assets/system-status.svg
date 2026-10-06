@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220">
+<defs>
+  <linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#071426"/><stop offset="1" stop-color="#111a38"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1000" height="220" rx="18" fill="url(#g)" stroke="#1597ff" stroke-width="2"/>
+<text x="32" y="40" fill="#6dd7ff" font-family="monospace" font-size="20" font-weight="700">HIMANI // NEURAL SYSTEM</text>
+<text x="32" y="72" fill="#7187a8" font-family="monospace" font-size="13">PROFILE STATUS MATRIX</text>
+<g font-family="monospace" font-size="15">
+  <circle cx="45" cy="112" r="6" fill="#45f0a4" filter="url(#glow)"/><text x="62" y="117" fill="#d9e7ff">AI / ML</text><text x="210" y="117" fill="#45f0a4">ACTIVE</text>
+  <circle cx="285" cy="112" r="6" fill="#45f0a4" filter="url(#glow)"/><text x="302" y="117" fill="#d9e7ff">COMPUTER VISION</text><text x="515" y="117" fill="#45f0a4">ACTIVE</text>
+  <circle cx="590" cy="112" r="6" fill="#45f0a4" filter="url(#glow)"/><text x="607" y="117" fill="#d9e7ff">RESEARCH</text><text x="760" y="117" fill="#45f0a4">ACTIVE</text>
+  <circle cx="45" cy="158" r="6" fill="#45f0a4" filter="url(#glow)"/><text x="62" y="163" fill="#d9e7ff">HACKATHONS</text><text x="210" y="163" fill="#45f0a4">ENABLED</text>
+  <circle cx="285" cy="158" r="6" fill="#45f0a4" filter="url(#glow)"/><text x="302" y="163" fill="#d9e7ff">OPEN SOURCE</text><text x="515" y="163" fill="#45f0a4">ONLINE</text>
+  <circle cx="590" cy="158" r="6" fill="#45f0a4" filter="url(#glow)"/><text x="607" y="163" fill="#d9e7ff">BUILD MODE</text><text x="760" y="163" fill="#45f0a4">ON</text>
+</g>
+<text x="32" y="198" fill="#536a8d" font-family="monospace" font-size="12">BUILD • LEARN • RESEARCH • REPEAT</text>
+</svg>
