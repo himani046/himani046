@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/neural-profile-banner.svg" alt="Himani Parmar — AI/ML Engineer, Computer Vision, Researcher" width="100%"/>
+<img src="./assets/hero-banner.webp" alt="Himani Parmar — AI/ML Engineer, Computer Vision, Researcher" width="100%"/>
 
 [![GitHub](https://img.shields.io/badge/GITHUB-071426?style=for-the-badge&logo=github&logoColor=63D7FF)](https://github.com/himani046)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-071426?style=for-the-badge&logo=linkedin&logoColor=63D7FF)](https://www.linkedin.com/)
@@ -15,12 +15,6 @@
 </div>
 
 ## 🧬 NEURAL PROFILE
-
-<div align="center">
-
-<img src="./assets/avatar.png" alt="Himani's illustrated avatar" width="210"/>
-
-</div>
 
 > **AI / ML engineer focused on computer vision, deep learning, applied research and intelligent automation.**
 
