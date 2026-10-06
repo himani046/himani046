@@ -1,16 +1,10 @@
 <div align="center">
 
-<img src="./assets/neural-profile-banner.png" alt="Himani Parmar — AI/ML Engineer, Computer Vision, Researcher" width="100%"/>
+<img src="./assets/neural-profile-banner.svg" alt="Himani Parmar — AI/ML Engineer, Computer Vision, Researcher" width="100%"/>
 
-# HIMANI PARMAR
-
-### AI / ML ENGINEER · COMPUTER VISION · RESEARCHER
-
-**Turning ideas into intelligent systems.**
-
-<a href="https://github.com/himani046"><img src="https://img.shields.io/badge/GITHUB-071426?style=for-the-badge&logo=github&logoColor=63D7FF" /></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LINKEDIN-071426?style=for-the-badge&logo=linkedin&logoColor=63D7FF" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/EMAIL-071426?style=for-the-badge&logo=gmail&logoColor=FF6B9D" /></a>
+[![GitHub](https://img.shields.io/badge/GITHUB-071426?style=for-the-badge&logo=github&logoColor=63D7FF)](https://github.com/himani046)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-071426?style=for-the-badge&logo=linkedin&logoColor=63D7FF)](https://www.linkedin.com/)
+[![Email](https://img.shields.io/badge/EMAIL-071426?style=for-the-badge&logo=gmail&logoColor=FF6B9D)](mailto:your-email@example.com)
 
 </div>
 
@@ -141,7 +135,7 @@ I like taking difficult problem statements and turning them into **working proto
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%"/>
 
 </div>
 
