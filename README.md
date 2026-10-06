@@ -1,162 +1,143 @@
 <div align="center">
 
-<img src="./assets/hero-banner.png" alt="Himani Parmar — AI/ML Engineer and Researcher" width="100%"/>
+<img src="./assets/neural-profile-banner.png" alt="Himani Parmar — AI/ML Engineer, Computer Vision, Researcher" width="100%"/>
 
-# `HIMANI PARMAR`
+# HIMANI PARMAR
 
 ### AI / ML ENGINEER · COMPUTER VISION · RESEARCHER
 
-**Building intelligent systems through AI, machine learning & computer vision.**
+**Turning ideas into intelligent systems.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-151B2B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himani046)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-151B2B?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-151B2B?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:your-email@example.com)
+<a href="https://github.com/himani046"><img src="https://img.shields.io/badge/GITHUB-071426?style=for-the-badge&logo=github&logoColor=63D7FF" /></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LINKEDIN-071426?style=for-the-badge&logo=linkedin&logoColor=63D7FF" /></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/EMAIL-071426?style=for-the-badge&logo=gmail&logoColor=FF6B9D" /></a>
 
 </div>
 
 ---
 
 <div align="center">
-<img src="./assets/system-status.svg" alt="Neural system status" width="100%"/>
+<img src="./assets/neural-system-panel.svg" alt="Neural profile status matrix" width="100%"/>
 </div>
 
-## `01 // ABOUT ME`
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  I build practical AI systems and research prototypes.      │
-│                                                              │
-│  FOCUS                                                       │
-│  ├─ Artificial Intelligence / Machine Learning               │
-│  ├─ Computer Vision                                          │
-│  ├─ Deep Learning                                             │
-│  ├─ Applied Research                                          │
-│  └─ Intelligent Automation                                    │
-│                                                              │
-│  CURRENT MODE                                                │
-│  ├─ Researching                                              │
-│  ├─ Building                                                  │
-│  ├─ Competing                                                 │
-│  └─ Shipping                                                  │
-└──────────────────────────────────────────────────────────────┘
-```
+## 🧬 NEURAL PROFILE
 
 <div align="center">
-<img src="./assets/avatar.png" alt="Himani's illustrated avatar" width="260"/>
+
+<img src="./assets/avatar.png" alt="Himani's illustrated avatar" width="210"/>
+
 </div>
 
-## `02 // SELECTED SYSTEMS`
+> **AI / ML engineer focused on computer vision, deep learning, applied research and intelligent automation.**
+
+| FOCUS | CURRENT MODE |
+|:---|:---|
+| 🧠 Artificial Intelligence / Machine Learning | 🔬 Researching |
+| 👁️ Computer Vision | 🛠️ Building |
+| 🧬 Deep Learning | 🏆 Competing |
+| 📚 Applied Research | 🚀 Shipping |
+| ⚙️ Intelligent Automation | 🌐 Open Source |
+
+---
+
+## 🚀 SELECTED SYSTEMS
 
 <div align="center">
-<img src="./assets/project-grid.svg" alt="Selected project systems" width="100%"/>
+<img src="./assets/project-grid.svg" alt="Selected systems" width="100%"/>
 </div>
 
 ### 🫀 CardioVision-AI
-Medical-image intelligence project focused on cardiovascular analysis using deep learning and computer vision.
+Medical-image intelligence using deep learning and computer vision.
 
-**Stack:** `PyTorch` `OpenCV` `XGBoost`
+`PyTorch` `OpenCV` `XGBoost`
 
-→ [Repository](https://github.com/himani046/CardioVision-AI)
+**→ [Repository](https://github.com/himani046/CardioVision-AI)**
 
 ### 🏔️ BhuSetu
-AI-assisted landslide early-warning and crisis-response platform combining geospatial information, alerts and decision support.
+AI-assisted landslide early-warning and crisis-response platform.
 
-→ [Live Platform](https://bhusetu-3bn4.onrender.com/#/dashboard)
+`AI` `GIS` `Satellite Data` `Alerts`
+
+**→ [Live Platform](https://bhusetu-3bn4.onrender.com/#/dashboard)**
 
 ### 🤖 Job Application Platform
-Automation platform for job discovery/application workflows with profile-aware answers, browser automation and a FastAPI backend.
+Automation platform for job workflows with profile-aware answers, browser automation and a FastAPI backend.
 
-**Stack:** `Python` `FastAPI` `Browser Automation` `GitHub`
+`Python` `FastAPI` `Browser Automation`
 
-→ [Repository](https://github.com/himani046/job-application-platform)
+**→ [Repository](https://github.com/himani046/job-application-platform)**
 
 ### 🧠 Parkinson's Detection Research
-Computer-vision/deep-learning research using handwriting drawings and fused learned + handcrafted features.
+Handwriting-analysis research combining deep learned and handcrafted features.
 
-**Stack:** `PyTorch` `OpenCV` `XGBoost` `Computer Vision`
+`PyTorch` `OpenCV` `XGBoost`
 
 ### 🌊 OceanEmbed
-Research direction for reconstructing subsurface ocean temperature from surface satellite observations using learned satellite embeddings.
+Satellite-embedding research for reconstruction of subsurface ocean temperature.
 
-**Stack:** `Deep Learning` `Remote Sensing` `Earth Data`
+`Deep Learning` `Remote Sensing` `Earth Data`
 
 ---
 
-## `03 // TECH STACK`
+## ⚙️ TECHNOLOGY MATRIX
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,r,matlab&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,r,matlab,pytorch,tensorflow,opencv,fastapi,git,github,docker,vscode&theme=dark" />
 
-### AI / ML
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
+<br/><br/>
 
-### Engineering
-<img src="https://skillicons.dev/icons?i=fastapi,git,github,docker,vscode&theme=dark" />
-
-</div>
-
-**ML:** `XGBoost` · `LightGBM` · `CatBoost` · `TabNet` · `scikit-learn`  
-**Data:** `NumPy` · `Pandas` · `Matplotlib`  
-**CV:** `OpenCV` · `Albumentations`  
-**Cloud / Deployment:** `Render` · `Google Colab` · `Kaggle`
-
----
-
-## `04 // RESEARCH & EXPERIMENTS`
-
-```text
-COMPUTER VISION
-    ├── Medical imaging
-    ├── Handwriting analysis
-    └── Multi-camera video intelligence
-
-DEEP LEARNING
-    ├── CNN architectures
-    ├── EfficientNet / Inception-style backbones
-    ├── Attention mechanisms
-    └── Feature-fusion pipelines
-
-APPLIED AI
-    ├── Landslide early warning
-    ├── Job automation
-    ├── Fraud / mule-account detection
-    └── Satellite-data intelligence
-```
-
----
-
-## `05 // HACKATHONS & BUILDING`
-
-I enjoy taking ambiguous problem statements and turning them into working prototypes.
-
-**Areas:** `AI` · `ML` · `Computer Vision` · `Cybersecurity` · `Geospatial AI` · `Automation`
-
-**Community:** ML / AI leadership and technical event work through ACM.
-
----
-
-## `06 // GITHUB TELEMETRY`
-
-<div align="center">
-
-<a href="https://github.com/himani046">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=himani046&show_icons=true&hide_border=true&bg_color=071426&title_color=63d7ff&icon_color=9b7cff&text_color=d9e7ff&ring_color=9b7cff" />
-</a>
-<a href="https://github.com/himani046">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himani046&layout=compact&hide_border=true&bg_color=071426&title_color=63d7ff&text_color=d9e7ff" />
-</a>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=himani046&theme=dark&hide_border=true&background=071426&ring=63d7ff&fire=9b7cff&currStreakLabel=63d7ff" />
+`XGBoost` · `LightGBM` · `CatBoost` · `TabNet` · `scikit-learn` · `NumPy` · `Pandas` · `Matplotlib` · `Albumentations`
 
 </div>
 
 ---
 
-## `07 // CONTRIBUTION MATRIX`
+## 🔬 RESEARCH LAB
+
+<div align="center">
+
+| COMPUTATIONAL VISION | DEEP LEARNING | APPLIED AI |
+|:---:|:---:|:---:|
+| Medical Imaging | CNN Architectures | Early Warning |
+| Handwriting Analysis | Attention | Job Automation |
+| Video Intelligence | Feature Fusion | Fraud Detection |
+| Visual Intelligence | Representation Learning | Earth Observation |
+
+</div>
+
+---
+
+## 🏆 BUILDING IN PUBLIC
+
+I like taking difficult problem statements and turning them into **working prototypes, experiments and deployable systems**.
+
+**Domains:** `AI` `ML` `Computer Vision` `Cybersecurity` `Geospatial AI` `Automation`
+
+**Community:** AI/ML leadership and technical event work through ACM.
+
+---
+
+## 📡 GITHUB TELEMETRY
+
+<div align="center">
+
+<a href="https://github.com/himani046">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=himani046&show_icons=true&hide_border=true&bg_color=071426&title_color=63d7ff&icon_color=9b7cff&text_color=d9e7ff&ring_color=9b7cff"/>
+</a>
+<a href="https://github.com/himani046">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himani046&layout=compact&hide_border=true&bg_color=071426&title_color=63d7ff&text_color=d9e7ff"/>
+</a>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=himani046&theme=dark&hide_border=true&background=071426&ring=63d7ff&fire=9b7cff&currStreakLabel=63d7ff"/>
+
+</div>
+
+---
+
+## 🐍 CONTRIBUTION MATRIX
 
 <div align="center">
 
@@ -166,26 +147,10 @@ I enjoy taking ambiguous problem statements and turning them into working protot
 
 ---
 
-## `08 // CURRENTLY BUILDING`
-
-```text
-> booting next-project...
-> loading research...
-> loading experiments...
-> loading caffeine...
-> ████████████████████████████████████████ 100%
-
-STATUS: READY TO BUILD.
-```
-
----
-
 <div align="center">
 
-### `BUILD · LEARN · RESEARCH · REPEAT`
+### BUILD · LEARN · RESEARCH · REPEAT
 
-**If an idea can be built, let's build it.**
-
-[![GitHub](https://img.shields.io/badge/EXPLORE_MY_CODE-071426?style=for-the-badge&logo=github&logoColor=63d7ff)](https://github.com/himani046)
+**Ideas → Experiments → Systems → Impact**
 
 </div>
